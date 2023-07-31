@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Alex+Sheng!;I+like+really+hard+math+and+cryptography.)](https://git.io/typing-svg)
 - 👋 Hi, I’m Alex Sheng
 - 👀 I’m interested in Math, Science, Cybersecurity, and just STEM overall
 - 🌱 I’m currently learning Cybersecurity and Competition Math
