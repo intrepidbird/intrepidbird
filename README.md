@@ -8,15 +8,8 @@ May I suggest https://github.com/realrealAlexS/qotw if you are here for the QOTW
 - 💞️ I’m looking to collaborate on nothing really right now
 - 📫 How to reach me: intrepidman2010@gmail.com
 
-```All my .py (Python files) are named according to their CTF category.
-Web Exploitation->web
-Cryptography->crypto
-Reverse Engineering -> rev
-Forensics -> fn6/(usually random though)
-Binary Exploitation -> binja
-```
-
 I compete in a lot of CTFs but write like one writeup for each of them lol.
+
 GoogleCTF will have full writeups though.
 
 <!---
