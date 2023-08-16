@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Alex+Sheng!)](https://git.io/typing-svg)
 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/${{YOUR_GITHUB_USERNAME}}/achievements?format=svg&limit=3" width="350" />
+</p>
+
 May I suggest https://github.com/realrealAlexS/qotw if you are here for the QOTW?
 
 - 👋 Hi, I’m Alex Sheng
