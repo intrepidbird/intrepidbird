@@ -14,8 +14,6 @@ GoogleCTF will have full writeups though.
 
 ![](https://komarev.com/ghpvc/?username=intrepidbird)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=realrealAlexS&count_private=true&theme=blueberry&show_icons=true&include_all_commits=true)
-
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=realrealAlexS&theme=merko) 
 
 <!---
