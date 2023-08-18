@@ -12,7 +12,7 @@ I compete in a lot of CTFs but write like one writeup for each of them lol.
 
 GoogleCTF will have full writeups though.
 
-![](https://komarev.com/ghpvc/?username=intrepidbird)
+![](https://komarev.com/ghpvc/?username=realrealAlexS)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=realrealAlexS&theme=merko) 
 
