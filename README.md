@@ -10,7 +10,7 @@ May I suggest https://github.com/realrealAlexS/qotw if you are here for the QOTW
 
 I compete in a lot of CTFs but write like one writeup for each of them lol.
 
-GoogleCTF will have full writeups though.
+GoogleCTF will have full writeups though. (maybe)
 
 ![](https://komarev.com/ghpvc/?username=realrealAlexS)
 
