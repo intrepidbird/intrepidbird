@@ -12,6 +12,12 @@ I compete in a lot of CTFs but write like one writeup for each of them lol.
 
 GoogleCTF will have full writeups though.
 
+![](https://komarev.com/ghpvc/?username=intrepidbird)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?usernameintrepidbird&count_private=true&theme=blueberry&show_icons=true&include_all_commits=true)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&theme=merko) 
+
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
