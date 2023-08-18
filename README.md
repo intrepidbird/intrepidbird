@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Alex+Sheng!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+IntrepidBird!)](https://git.io/typing-svg)
 
 May I suggest https://github.com/realrealAlexS/qotw if you are here for the QOTW?
 
