@@ -17,6 +17,7 @@ GoogleCTF will have full writeups though. (maybe)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=realrealAlexS&theme=merko) 
 
+Honestly I should start learning java and javascript riiiight?
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
