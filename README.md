@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+IntrepidBird!)](https://git.io/typing-svg)
 
-May I suggest https://github.com/realrealAlexS/qotw if you are here for the QOTW?
-
 - 👋 Hi, I’m Alex Sheng
 - 👀 I’m interested in Math, Science, Cybersecurity, and just STEM overall
 - 🌱 I’m currently learning Cybersecurity and Competition Math
