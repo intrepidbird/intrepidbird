@@ -9,7 +9,7 @@
 
 I compete in a lot of CTFs but write like one writeup for each of them lol.
 
-GoogleCTF will have full writeups though. (maybe)
+- 🚩 My next CTF is SekaiCTF 2023
 
 ![](https://komarev.com/ghpvc/?username=realrealAlexS) ![pythonfavicon](https://github.com/realrealAlexS/realrealAlexS/assets/140008493/546e186c-f5b0-4e57-b812-82182626142e)
 
