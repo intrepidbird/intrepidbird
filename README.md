@@ -10,7 +10,7 @@
 I compete in a lot of CTFs but write like one writeup for each of them lol.
 
 - 🚩 #1 Weekly on CryptoHack
-- 🏆 #10 All-Time US on CryptoHack 
+- 🏆 #7 All-Time US on CryptoHack 
 
 ![](https://komarev.com/ghpvc/?username=realrealAlexS) ![pythonfavicon](https://github.com/realrealAlexS/realrealAlexS/assets/140008493/546e186c-f5b0-4e57-b812-82182626142e)
 
