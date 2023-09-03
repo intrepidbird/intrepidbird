@@ -11,9 +11,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I compete in a lot of CTFs but write like one writeup for each of them (writeup prize)
+I compete in a lot of CTFs but write like one writeup for each of them (writeup prize lol)
 
-CTF @ `Ctrl Alt Elite`, `les amateurs`, and `intrepidbird solo run`
+CTF @ `Ctrl Alt Elite` and `les amateurs`
 
 LITCTF stats: [Ctrl Alt Elite](https://lit.lhsmathcs.org/ctfprofile?tn=ctrl%20alt%20elite)
 
