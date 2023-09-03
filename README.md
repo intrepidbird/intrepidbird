@@ -16,6 +16,7 @@ I compete in a lot of CTFs but write about one writeup for each of them (writeup
 CTF @ `Ctrl Alt Elite` and `les amateurs`
 
 Cofounder & Administrator @ `Ctrl Alt Elite`
+
 LITCTF stats: [Ctrl Alt Elite](https://lit.lhsmathcs.org/ctfprofile?tn=ctrl%20alt%20elite)
 
 Join Ctrl Alt Elite [here](https://discord.gg/CCPGsQvA), we are looking for new members!
@@ -46,7 +47,7 @@ Learning Java, Javascript better, along with continuing to code frequently in Py
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🏆 AoPS Username: NJ565_Alex
+- 🏆 AoPS Username: NJR65_Alex
 (Had it for many years lol)
 
 <!---
