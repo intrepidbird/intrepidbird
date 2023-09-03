@@ -15,6 +15,8 @@ I compete in a lot of CTFs but write like one writeup for each of them (writeup 
 
 CTF @ `Ctrl Alt Elite`, `les amateurs`, and `intrepidbird solo run`
 
+LITCTF stats: [Ctrl Alt Elite](https://lit.lhsmathcs.org/ctfprofile?tn=ctrl%20alt%20elite)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🚩 #1 Weekly on CryptoHack (8/29/2023-9/2/2023)
@@ -31,7 +33,17 @@ Stats:
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=realrealAlexS&theme=merko) 
 
+OK yes it's all Python...for now...
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Trying to improve in writing C, C#, C++, etc.
+
+Learning Java, Javascript better, along with continuing to code frequently in Python.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Join Ctrl Alt Elite [here](https://discord.gg/CCPGsQvA)
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
