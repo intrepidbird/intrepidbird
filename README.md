@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+IntrepidBird!)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m Alex Sheng
-- 👀 I’m interested in Math, Science, Cybersecurity, and just STEM overall
-- 🌱 I’m currently learning Cybersecurity and Competition Math
-- 💞️ I’m looking to collaborate on nothing really right now
-- 📫 How to reach me: intrepidman2010@gmail.com
-- 💻 Python is the BEST programming language in my opinion
+- 👋 Hi, I’m Alex Sheng, but you might know me as `intrepidbird` online.
+- 👀 I’m interested in Math, Computer Science, Cybersecurity, and just STEM overall.
+- 🌱 I’m currently learning Competition Math and Cybersecurity.
+- 💞️ I’m looking to collaborate on picoCTF 2023 Cryptography Writeups (hard challenges please).
+- 📫 How to reach me: intrepidman2010@gmail.com or intrepidbird on discord.
+- 💻 Python is the BEST programming language in my opinion.
 
 I compete in a lot of CTFs but write like one writeup for each of them (writeup prize)
 
