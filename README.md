@@ -11,7 +11,7 @@
 
 I compete in a lot of CTFs but write like one writeup for each of them (writeup prize)
 
-CTF @ `Ctrl Alt Elite`, `les amateurs`, and solo runs
+CTF @ `Ctrl Alt Elite`, `les amateurs`, and `intrepidbird solo run`
 
 - 🚩 #1 Weekly on CryptoHack (8/29/2023-9/2/2023)
 - 🚩 Current #2 Weekly on CryptoHack (9/2/2023-present)
