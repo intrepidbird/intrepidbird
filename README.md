@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on picoCTF 2023 Cryptography Writeups (hard challenges please).
 - 📫 How to reach me: intrepidman2010@gmail.com or intrepidbird on discord.
 - 💻 Python is the BEST programming language in my opinion.
+- 😄 Pronouns: He/Him
 
 I compete in a lot of CTFs but write like one writeup for each of them (writeup prize)
 
