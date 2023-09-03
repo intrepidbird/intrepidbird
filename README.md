@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+IntrepidBird!)](https://git.io/typing-svg)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - 👋 Hi, I’m Alex Sheng, but you might know me as `intrepidbird` online.
 - 👀 I’m interested in Math, Computer Science, Cybersecurity, and just STEM overall.
 - 🌱 I’m currently learning Competition Math and Cybersecurity.
@@ -8,16 +10,22 @@
 - 💻 Python is the BEST programming language in my opinion.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I compete in a lot of CTFs but write like one writeup for each of them (writeup prize)
 
 CTF @ `Ctrl Alt Elite`, `les amateurs`, and `intrepidbird solo run`
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🚩 #1 Weekly on CryptoHack (8/29/2023-9/2/2023)
 - 🚩 Current #2 Weekly on CryptoHack (9/2/2023-present)
 - 🏆 #7 All-Time US on CryptoHack
 - 🏆 500+ matches unbeaten in AoPS FTW
 - 🤖 IntrepidBot Head Developer
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Stats:
 
 ![](https://komarev.com/ghpvc/?username=realrealAlexS) ![pythonfavicon](https://github.com/realrealAlexS/realrealAlexS/assets/140008493/546e186c-f5b0-4e57-b812-82182626142e)
 
