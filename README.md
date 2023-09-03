@@ -50,6 +50,18 @@ Learning Java, Javascript better, along with continuing to code frequently in Py
 - 🏆 AoPS Username: NJR65_Alex
 (Had it for many years lol)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Goals
+
+- 🏆 International Mathematical Olympiad one day
+- 🏆 USJMO next year
+- 🏆 AMC 10 20+ solves next year
+- 🏆 AMC 8 25 solves next year
+- 🏆 Mathcounts State #1
+- 🏆 Win a CTF (Middle School division)
+- 🏆 5000 Contributions on Github
+
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
