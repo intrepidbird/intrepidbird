@@ -11,11 +11,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I compete in a lot of CTFs but write like one writeup for each of them (writeup prize lol)
+I compete in a lot of CTFs but write about one writeup for each of them (writeup prize lol)
 
 CTF @ `Ctrl Alt Elite` and `les amateurs`
 
+Cofounder & Administrator @ `Ctrl Alt Elite`
 LITCTF stats: [Ctrl Alt Elite](https://lit.lhsmathcs.org/ctfprofile?tn=ctrl%20alt%20elite)
+
+Join Ctrl Alt Elite [here](https://discord.gg/CCPGsQvA), we are looking for new members!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,7 +30,7 @@ LITCTF stats: [Ctrl Alt Elite](https://lit.lhsmathcs.org/ctfprofile?tn=ctrl%20al
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Stats:
+GitHub Statisics:
 
 ![](https://komarev.com/ghpvc/?username=realrealAlexS) ![pythonfavicon](https://github.com/realrealAlexS/realrealAlexS/assets/140008493/546e186c-f5b0-4e57-b812-82182626142e)
 
@@ -43,7 +46,8 @@ Learning Java, Javascript better, along with continuing to code frequently in Py
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Join Ctrl Alt Elite [here](https://discord.gg/CCPGsQvA)
+- 🏆 AoPS Username: NJ565_Alex
+(Had it for many years lol)
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
