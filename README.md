@@ -6,18 +6,13 @@
 - 👀 I’m interested in Math, Computer Science, Cybersecurity, and just STEM overall.
 - 🌱 I’m currently learning Competition Math and Cybersecurity.
 - 💞️ I’m looking to collaborate on picoCTF 2023 Cryptography Writeups (hard challenges please).
-- 📫 How to reach me: intrepidman2010@gmail.com or intrepidbird on discord.
+- 📫 How to reach me: intrepidman2010@gmail.com or `intrepidbird` on discord.
 - 💻 Python is the BEST programming language in my opinion.
-- 😄 Pronouns: He/Him/Math-Nerd
 - ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I compete in a lot of CTFs but write about one writeup for each of them (writeup prize lol)
 
 CTF @ `Ctrl Alt Elite` and `les amateurs`
-
-Cofounder & Administrator @ `Ctrl Alt Elite`
-
-LITCTF stats: [Ctrl Alt Elite](https://lit.lhsmathcs.org/ctfprofile?tn=ctrl%20alt%20elite)
 
 Join Ctrl Alt Elite [here](https://discord.gg/CCPGsQvA), we are looking for new members!
 
@@ -47,7 +42,7 @@ Learning Java, Javascript better, along with continuing to code frequently in Py
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🏆 AoPS Username: NJR65_Alex
+- 🏆 AoPS Username: NJR65_Alex, find me in Mathcounts Trainer and AoPS FTW.
 (Had it for many years lol)
 
 <!---
