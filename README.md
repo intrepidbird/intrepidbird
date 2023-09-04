@@ -10,16 +10,14 @@
 - 💻 Python is the BEST programming language in my opinion.
 - ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I compete in a lot of CTFs but write about one writeup for each of them (writeup prize lol)
+- 👨‍💻 I compete in a lot of CTFs but write about one writeup for each of them (writeup prize lol)
 
-CTF @ `Ctrl Alt Elite` and `les amateurs`
+- 👨‍💻 CTF @ `Ctrl Alt Elite` and `les amateurs`
 
-Join Ctrl Alt Elite [here](https://discord.gg/CCPGsQvA), we are looking for new members!
+- 👨‍💻 Join Ctrl Alt Elite [here](https://discord.gg/CCPGsQvA), we are looking for new members!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🚩 #1 Weekly on CryptoHack (8/29/2023-9/2/2023)
-- 🚩 Current #2 Weekly on CryptoHack (9/2/2023-present)
 - 🏆 #7 All-Time US on CryptoHack
 - 🏆 500+ matches unbeaten in AoPS FTW
 - 🤖 IntrepidBot Head Developer
