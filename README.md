@@ -34,14 +34,13 @@ OK yes it's all Python...for now...
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Trying to improve in writing C, C#, C++, etc.
+Trying to improve in writing `C (c)`, `C# (cs)`, `C++ (cpp)`, etc.
 
-Learning Java, Javascript better, along with continuing to code frequently in Python.
+Learning `Java (java)`, `Javascript (js)` better, along with continuing to code frequently in `Python (py)`.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🏆 AoPS Username: NJR65_Alex, find me in Mathcounts Trainer and AoPS FTW.
-(Had it for many years lol)
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
