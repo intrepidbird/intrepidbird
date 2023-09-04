@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+IntrepidBird!)](https://git.io/typing-svg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Ctrl Alt Elite CTF soon:tm:
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m Alex Sheng, but you might know me as `intrepidbird` online.
 - 👀 I’m interested in Math, Computer Science, Cybersecurity, and just STEM overall.
 - 🌱 I’m currently learning Competition Math and Cybersecurity.
