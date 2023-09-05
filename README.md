@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+IntrepidBird!)](https://git.io/typing-svg)
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+IntrepidBird!" alt="Typing SVG">
+  </a>
+</div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m Alex Sheng, but you might know me as `intrepidbird` online.
