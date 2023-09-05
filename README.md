@@ -24,6 +24,7 @@
 - 💻 CryptoHack Score: 10110 (Top 0.3%)
 - ⌨️ Typing speed: 101 WPM
 - 🏆 AoPS Username: NJR65_Alex, find me in Mathcounts Trainer and AoPS FTW.
+- 🐧 Kali Linux = Best Linux
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 GitHub Statisics:
