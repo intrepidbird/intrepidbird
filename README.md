@@ -35,7 +35,7 @@ GitHub Statisics:
 
 ![](https://komarev.com/ghpvc/?username=realrealAlexS) ![pythonfavicon](https://github.com/realrealAlexS/realrealAlexS/assets/140008493/546e186c-f5b0-4e57-b812-82182626142e)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=realrealAlexS&theme=blueberry) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&theme=blueberry) 
 
 OK yes it's all Python...for now...
 
