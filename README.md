@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Competition Math and Cybersecurity.
 - 💞️ I’m looking to collaborate on picoCTF 2023 Cryptography Writeups (hard challenges please).
 - 📫 How to reach me: intrepidman2010@gmail.com or `intrepidbird` on discord.
-- 💻 Python is the BEST programming language in my opinion.
+- 💻 Python is the GOAT programming language in my opinion.
 - ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👨‍💻 I compete in a lot of CTFs but write about one writeup for each of them (writeup prize lol)
@@ -24,18 +24,18 @@
 - 🏆 #7 All-Time US on CryptoHack
 - 🏆 500+ matches unbeaten in AoPS FTW
 - 🤖 IntrepidBot Head Developer
-- 💻 picoGym Score: 26880
-- 💻 CryptoHack Score: 10110 (Top 0.3%)
-- ⌨️ Typing speed: 101 WPM
+- 💻 picoGym Score: 26880+
+- 💻 CryptoHack Score: 10110+ (Top 0.3%)
+- ⌨️ Typing speed: 101 WPM+
 - 🏆 AoPS Username: NJR65_Alex, find me in Mathcounts Trainer and AoPS FTW.
-- 🐧 Kali Linux = Best Linux
+- 🐧 Linux Lover
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 GitHub Statisics:
 
 ![](https://komarev.com/ghpvc/?username=realrealAlexS) ![pythonfavicon](https://github.com/realrealAlexS/realrealAlexS/assets/140008493/546e186c-f5b0-4e57-b812-82182626142e)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=realrealAlexS&theme=merko) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=realrealAlexS&theme=blueberry) 
 
 OK yes it's all Python...for now...
 
