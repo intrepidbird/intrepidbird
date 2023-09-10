@@ -15,7 +15,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👨‍💻 I compete in a lot of CTFs but write about one writeup for each of them (writeup prize lol)
 
-- 👨‍💻 CTF @ `Ctrl Alt Elite` and `les amateurs`
+- 👨‍💻 CTF @ `Ctrl Alt Elite (Captain)` and `les amateurs`
 
 - 👨‍💻 Join Ctrl Alt Elite, the 2nd best Middle School CTF team [here](https://discord.gg/CCPGsQvA), we are looking for new members!
 
