@@ -1,8 +1,8 @@
-<div style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+IntrepidBird!" alt="Typing SVG">
-  </a>
-</div>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+IntrepidBird!" /></a>
+</p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m Alex Sheng, but you might know me as `intrepidbird` online.
