@@ -1,24 +1,26 @@
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+IntrepidBird!" /></a>
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👋 Hi, I’m Alex Sheng, but you might know me as `intrepidbird` online.
-- 👀 I’m interested in Math, Computer Science, Cybersecurity, and just STEM overall.
+
+- 👋 Hi, I’m Alex Sheng, and you might know me as `intrepidbird` online.
+- 👀 I’m interested in Math, Computer Science, and Cybersecurity.
 - 🌱 I’m currently learning Competition Math and Cybersecurity.
-- 💞️ I’m looking to collaborate on picoCTF 2023 Cryptography Writeups (hard challenges please).
+- 💞️ I’m looking to collaborate on AI Generation Code (Python or C++).
 - 📫 How to reach me: intrepidman2010@gmail.com or `intrepidbird` on discord.
 - 💻 Python is the GOAT programming language in my opinion.
 - ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👨‍💻 I compete in a lot of CTFs but write about one writeup for each of them (writeup prize lol)
+
+- 👨‍💻 I compete in a lot of CTFs
 
 - 👨‍💻 CTF @ `Ctrl Alt Elite (Captain)` and `les amateurs`
 
@@ -34,6 +36,7 @@
 - ⌨️ Typing speed: 101 WPM+
 - 🏆 AoPS Username: NJR65_Alex, find me in Mathcounts Trainer and AoPS FTW.
 - 🐧 Linux Lover
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 GitHub Statisics:
@@ -42,15 +45,14 @@ GitHub Statisics:
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&theme=blueberry) 
 
-OK yes it's all Python...for now...
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Trying to improve in writing `C (c)`, `C# (cs)`, `C++ (cpp)`, etc.
+💻 Coding in  `Python (py)`, `Java (java)`, and `Javascript (js)`.
 
-Learning `Java (java)`, `Javascript (js)` better, along with continuing to code frequently in `Python (py)`.
+💻 Learning `C (c)`, `C# (cs)`, and `C++ (cpp)`
 
-`intrepidbird{g17hub_c0d3r_ftw}`
+Congrats for looking at my GitHub! Here's a flag: `intrepidbird{c0mpu73r_5c13nc3}`
+
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
