@@ -52,7 +52,7 @@ IntrepidBot Math: [Repository Link](https://github.com/intrepidbird/intrepidbot)
 
 ![](https://komarev.com/ghpvc/?username=realrealAlexS)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&theme=blueberry) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
