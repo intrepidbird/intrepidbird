@@ -20,7 +20,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Computer Science:
+### Computer Science & Hacking:
 - 👨‍💻 I compete in a lot of CTFs
 
 - 👨‍💻 CTF @ [`Ctrl Alt Elite (Captain)`](https://sites.google.com/view/ctrlaltelite) and `les amateurs`
