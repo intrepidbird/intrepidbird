@@ -23,7 +23,7 @@
 ### Computer Science:
 - 👨‍💻 I compete in a lot of CTFs
 
-- 👨‍💻 CTF @ [`Ctrl Alt Elite (Captain)`](https://sites.google.com/view/ctrl-alt-elite-math) and `les amateurs`
+- 👨‍💻 CTF @ [`Ctrl Alt Elite (Captain)`](https://sites.google.com/view/ctrlaltelite) and `les amateurs`
 
 - 👨‍💻 Join Ctrl Alt Elite, the 2nd best Middle School CTF team [here](https://discord.gg/CCPGsQvA), we are looking for new members!
 
