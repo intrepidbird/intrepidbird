@@ -25,7 +25,7 @@
 
 - 👨‍💻 CTF @ [`IntrepidHackers (Captain)`](https://sites.google.com/view/intrepidhackers) and `les amateurs`
 
-- 👨‍💻 Join Ctrl Alt Elite, the 2nd best Middle School CTF team [here](https://discord.gg/CCPGsQvA), we are looking for new members!
+- 👨‍💻 Join IntrepidHackers, the 2nd best Middle School CTF team [here](https://discord.gg/CCPGsQvA), we are looking for new members!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
