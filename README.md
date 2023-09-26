@@ -12,6 +12,7 @@
 - 📫 How to reach me: intrepidman2010@gmail.com or `intrepidbird` on discord.
 - 💻 [Python](https://python.org) is the GOAT programming language in my opinion.
 - ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
+- 🤖 Alternate account is [IntrepidBird2](https://github.com/intrepidbird2)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
