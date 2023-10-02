@@ -32,7 +32,7 @@
 
 ### Best Project:
 
-**IntrepidBot Math**: [Repository Link](https://github.com/intrepidbird/intrepidbot)
+🤖 **IntrepidBot Math**: [Repository Link](https://github.com/intrepidbird/intrepidbot)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
