@@ -8,7 +8,7 @@
 - 👋 Hi, I’m Alex Sheng, and you might know me as `intrepidbird` online.
 - 👀 I’m interested in Math, Computer Science, and Cybersecurity.
 - 🌱 I’m currently learning Olympiad Math and Cybersecurity.
-- 💞️ I’m looking to collaborate on AI Generation Code (Python or C++).
+- 💞️ I’m looking to collaborate on AI Generation Code (Python or Javascript).
 - 📫 How to reach me: intrepidman2010@gmail.com or `intrepidbird` on discord.
 - 💻 [Python](https://python.org) is the GOAT programming language in my opinion.
 - ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
@@ -57,9 +57,12 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Coding:
-💻 Coding in  `Python (py)`, `Java (java)`, and `Javascript (js)`.
 
-💻 Learning `C (c)`, `C# (cs)`, and `C++ (cpp)`
+💻 Coding frequently in  `Python (py)`, and `Javascript (js)`.
+
+💻 Coding in `Java (java)` and `Typescript (ts)` sometimes to start getting better with them.
+
+💻 Learning `C (c)`, `C# (cs)`, and `C++ (cpp)` which I hope to learn by the end of the year.
 
 Congrats for looking at my GitHub! Here's a flag: `intrepidbird{c0mpu73r_5c13nc3}`
 
