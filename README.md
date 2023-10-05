@@ -6,14 +6,12 @@
 
 ### General:
 - 👋 Hi, I’m Alex Sheng, and you might know me as `intrepidbird` online.
-- 👀 I’m interested in Math, Computer Science, and Cybersecurity.
-- 🌱 I’m currently learning Olympiad Math and Cybersecurity.
+- 💗 I’m interested in Math, Computer Science, and Cybersecurity.
+- 🤔 I’m currently learning Olympiad Math and Cybersecurity.
 - 💞️ I’m looking to collaborate on AI Generation Code (Python or Javascript).
 - 📫 How to reach me: intrepidman2010@gmail.com or `intrepidbird` on discord.
 - 💻 [Python](https://python.org) is the GOAT programming language in my opinion.
-- ⚡ Fun fact: My GitHub username used to be `realrealAlexS`
-- 🤖 Alternate account is [IntrepidBird2](https://github.com/intrepidbird2)
-
+- 🤖Check out [**IntrepidBot Math**](https://github.com/intrepidbird/intrepidbot)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Programming Languages and Tools:</h3>
@@ -22,29 +20,18 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Computer Science & Hacking:
-- 👨‍💻 I compete in a lot of CTFs
 
 - 👨‍💻 CTF @ [`IntrepidHackers (Captain)`](https://sites.google.com/view/intrepidhackers) and [`les amateurs`](https://amateurs.team)
-
-- 👨‍💻 Join IntrepidHackers, the 2nd best Middle School CTF team [here](https://discord.gg/X8Sm3NNn), we are looking for new members!
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Best GitHub Project:
-
-🤖 **IntrepidBot Math**: [Repository Link](https://github.com/intrepidbird/intrepidbot)
+- 💻 picoGym Score: 26880+
+- 💻 CryptoHack Score: 10110+ (Top 0.3%)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### STEM High Records:
+
 - 🏆 #7 All-Time US on CryptoHack
 - 🏆 500+ matches unbeaten in AoPS FTW
-- 🤖 IntrepidBot Head Developer
-- 💻 picoGym Score: 26880+
-- 💻 CryptoHack Score: 10110+ (Top 0.3%)
-- ⌨️ Typing speed: 101 WPM+
 - 🏆 AoPS Username: NJR65_Alex, find me in Mathcounts Trainer and AoPS FTW.
-- 🐧 Linux Lover
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -56,15 +43,10 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Coding:
-
-💻 Coding frequently in  `Python (py)`, and `Javascript (js)`.
-
-💻 Coding in `Java (java)` and `Typescript (ts)` sometimes to start getting better with them.
-
-💻 Learning `C (c)`, `C# (cs)`, and `C++ (cpp)` which I hope to learn by the end of the year.
-
 Congrats for looking at my GitHub! Here's a flag: `intrepidbird{c0mpu73r_5c13nc3}`
+
+![image](https://github.com/intrepidbird/intrepidbird/assets/140008493/8d63aac5-744d-4003-adea-6026dda8a63d)
+
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
