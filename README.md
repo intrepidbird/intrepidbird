@@ -43,7 +43,7 @@ I use `Python` and `Javascript` a lot, `Java` and `Typescript` sometimes, and am
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrepidbird&layout=compact&theme=blueberry)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=intrepidbird&show_icons=true&theme=cobalt)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
