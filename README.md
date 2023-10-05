@@ -47,8 +47,7 @@ I use `Python` and `Javascript` a lot, `Java` and `Typescript` sometimes, and am
 
 Congrats for looking at my GitHub! Here's a flag: `intrepidbird{c0mpu73r_5c13nc3}`
 
-![image](https://github.com/intrepidbird/intrepidbird/assets/140008493/8d63aac5-744d-4003-adea-6026dda8a63d)
-
+![image](https://github.com/intrepidbird/intrepidbird/assets/140008493/2dd84226-c6bb-4915-a393-b3fd62e764b6)
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
