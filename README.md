@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### General:
-- 👋 Hi, I’m Alex Sheng, and you might know me as `intrepidbird` online.
+- 👋 Hi, I’m Alexander Sheng, and you might know me as `intrepidbird` online.
 - 💗 I’m interested in Math, Computer Science, and Cybersecurity.
 - 🤔 I’m currently learning Olympiad Math and Cybersecurity.
 - 💞️ I’m looking to collaborate on AI Generation Code (Python or Javascript).
