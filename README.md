@@ -43,9 +43,6 @@ I use `Python` and `Javascript` a lot, `Java` and `Typescript` sometimes, and am
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrepidbird&layout=compact&theme=blueberry)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=intrepidbird&show_icons=true&theme=cobalt)
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Congrats for looking at my GitHub! Here's a flag: `intrepidbird{c0mpu73r_5c13nc3}`
