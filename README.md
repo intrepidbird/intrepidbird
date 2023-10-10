@@ -39,9 +39,11 @@ I use `Python` and `Javascript` a lot, `Java` and `Typescript` sometimes, and am
 
 ### GitHub Statisics:
 
-![](https://komarev.com/ghpvc/?username=realrealAlexS)
+![Profile Views](https://komarev.com/ghpvc/?username=realrealAlexS)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrepidbird&layout=compact&theme=blueberry)
+
+[!GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=intrepidbird&bg_color=00aaff&color=00aaff&line=00aaff&point=00aaff&area=true&hide_border=true)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
