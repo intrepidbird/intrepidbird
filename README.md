@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on AI Generation Code (Python or Javascript).
 - 📫 How to reach me: intrepidman2010@gmail.com or `intrepidbird` on discord.
 - 💻 [Python](https://python.org) is the GOAT programming language in my opinion.
-- 🤖 Check out [**IntrepidBot Math**](https://github.com/intrepidbird/intrepidbot)
+- 🤖 Check out [**Gauss**](https://github.com/intrepidbird/gauss)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Programming Languages and Tools:</h3>
