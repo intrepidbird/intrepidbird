@@ -27,7 +27,7 @@
 
 Thank you for looking at my GitHub!
 
-Organization: https://github.com/intrepidbird-org
+Organization: [The IntrepidBird Organization](https://github.com/intrepidbird-org)
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
