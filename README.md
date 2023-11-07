@@ -27,11 +27,9 @@ I use `Python` and `Javascript` a lot, `Java` and `Typescript` sometimes, and am
 
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intrepidbird&layout=compact&theme=blueberry)
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrepidbird&show_icons=true&theme=transparent)
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Thanks for looking at my GitHub! Here's a flag: `intrepidbird{1ntr3p1dm47h5}`
+Thanks for looking at my GitHub!
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
