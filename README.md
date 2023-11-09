@@ -4,12 +4,13 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### IntrepidBird:
+### About Me:
 - 👋 Hi, I’m Alexander Sheng, and you might know me as `intrepidbird` online.
 - 💗 I’m deeply interested in Mathematics, Computer Science, and Cybersecurity.
 - 🤔 I’m currently learning Competition Maths and HTML-CSS-Javascript.
 - 💞️ I’m looking to collaborate on projects that use AI APIs for Mathematical Computation.
 - 🏫 My goal for 2023-2024 is to qualify for AIME, win Mathcounts Chapter, and get accepted to Pingry.
+- 🏆 My AoPS username is NJR65_Alex & intrepidbird, but all my other social networks have username intrepidbird.
 - 📫 How to reach me: intrepidman2010@gmail.com
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
