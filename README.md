@@ -27,9 +27,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Thank you for looking at my GitHub!
-
-Organization: [The IntrepidBird Organization](https://github.com/intrepidbird-org)
+Thank you for looking at my GitHub! Please have a wonderful rest of your day.
 
 Disclaimer: I frequently use images from Poh Shen Loh, AoPS, MAA, Google, and other sources. If you are part of one of these corporations, please send me a email regarding the matter. I will answer immediately.
 
