@@ -30,6 +30,8 @@ Thank you for looking at my GitHub!
 
 Organization: [The IntrepidBird Organization](https://github.com/intrepidbird-org)
 
+Disclaimer: I frequently use images from Poh Shen Loh, AoPS, MAA, Google, and other sources. If you are part of one of these corporations, please send me a email regarding the matter. I will answer immediately.
+
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
