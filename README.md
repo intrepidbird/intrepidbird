@@ -27,6 +27,20 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Projects:
+
+Not all of my projects are treated the same. Some are better than others, and have hundreds more commits than others. 
+
+You may view most of them at https://intrepidbird.github.io/projects/
+
+🥇 Really good projects : [Gauss Tier](https://github.com/stars/intrepidbird/lists/gauss)
+
+🥈 Pretty good projects : [Euler Tier](https://github.com/stars/intrepidbird/lists/euler)
+
+🥉 In progress projects : [Newton Tier](https://github.com/stars/intrepidbird/lists/newton)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Thank you for looking at my GitHub! Please have a wonderful rest of your day.
 
 Disclaimer: I frequently use images from Poh Shen Loh, AoPS, MAA, Google, and other sources. If you are part of one of these corporations, please send me a email regarding the matter. I will answer immediately.
