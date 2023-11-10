@@ -10,7 +10,7 @@
 - 🤔 I’m currently learning Competition Maths and HTML-CSS-Javascript.
 - 💞️ I’m looking to collaborate on projects that use AI APIs for Mathematical Computation.
 - 🏫 My goal for 2023-2024 is to qualify for AIME, win Mathcounts Chapter, and get accepted to Pingry.
-- 🏆 My AoPS username is NJR65_Alex & intrepidbird, but all my other social networks have username intrepidbird.
+- 🏆 My AoPS username is NJR65_Alex & intrepidbird, and you can find me on AoPS FTW or Mathcounts Trainer.
 - 📫 How to reach me: intrepidman2010@gmail.com
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
