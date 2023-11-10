@@ -29,7 +29,7 @@
 
 ### Projects:
 
-Not all of my projects are treated the same. Some are better than others, and have hundreds more commits than others. 
+Not all of my projects are treated the same. Some are better than others, and have hundreds more commits than others.
 
 You may view most of them at https://intrepidbird.github.io/projects/
 
@@ -38,6 +38,8 @@ You may view most of them at https://intrepidbird.github.io/projects/
 🥈 Elite projects : [Euler Tier](https://github.com/stars/intrepidbird/lists/euler)
 
 🥉 Great projects : [Newton Tier](https://github.com/stars/intrepidbird/lists/newton)
+
+The IntrepidBird Standard: All of my projects are above average
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
