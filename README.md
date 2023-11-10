@@ -33,11 +33,11 @@ Not all of my projects are treated the same. Some are better than others, and ha
 
 You may view most of them at https://intrepidbird.github.io/projects/
 
-🥇 Really good projects : [Gauss Tier](https://github.com/stars/intrepidbird/lists/gauss)
+🥇 Legendary projects : [Gauss Tier](https://github.com/stars/intrepidbird/lists/gauss)
 
-🥈 Pretty good projects : [Euler Tier](https://github.com/stars/intrepidbird/lists/euler)
+🥈 Elite projects : [Euler Tier](https://github.com/stars/intrepidbird/lists/euler)
 
-🥉 In progress projects : [Newton Tier](https://github.com/stars/intrepidbird/lists/newton)
+🥉 Great projects : [Newton Tier](https://github.com/stars/intrepidbird/lists/newton)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
