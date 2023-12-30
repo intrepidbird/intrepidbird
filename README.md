@@ -21,7 +21,7 @@
 
 ### GitHub Statistics:
 
-![Profile Views](https://komarev.com/ghpvc/?username=intrepidbird)
+![Profile Views](https://komarev.com/ghpvc/?username=realrealAlexS)
 
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intrepidbird&layout=compact&theme=blueberry)
 
