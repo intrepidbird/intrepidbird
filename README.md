@@ -6,9 +6,9 @@
 
 ### About Me:
 
-Chinese-American who does math, science, and coding
+📘 Chinese-American who does math, science, and coding
 
-AoPS: NJR65_Alex, intrepidbird
+📘 AoPS: NJR65_Alex, intrepidbird
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ AoPS: NJR65_Alex, intrepidbird
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Disclaimer: Not all images used in my projects or brand are owned by me.
+Disclaimer: IntrepidBird doesn't own all the media used in IntrepidBird's projects.
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
