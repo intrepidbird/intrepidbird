@@ -5,13 +5,11 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About Me:
-- 👋 Hi, I’m Alexander Sheng, and you might know me as `intrepidbird` online.
-- 💗 I’m deeply interested in Mathematics, Computer Science, and Cybersecurity.
-- 🤔 I’m currently learning Competition Maths and HTML-CSS-Javascript.
-- 💞️ I’m looking to collaborate on projects that use AI APIs for Mathematical Computation.
-- 🏆 My goal for 2023-2024 is to get Mathcounts nationals, win Science Bowl nationals, and get Star Struck in GitHub.
-- 📘 My AoPS username is NJR65_Alex & intrepidbird, and you can find me on AoPS FTW or Mathcounts Trainer.
-- 📫 How to reach me: intrepidman2010@gmail.com
+
+Chinese-American who does math, science, and coding
+
+AoPS: NJR65_Alex, intrepidbird
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Programming Languages and Tools:</h3>
@@ -27,25 +25,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Projects:
-
-Not all of my projects are treated the same. Some are better than others, and have hundreds more commits than others.
-
-You may view most of them at https://intrepidbird.github.io/projects/
-
-🥇 Legendary projects : [Gauss Tier](https://github.com/stars/intrepidbird/lists/gauss)
-
-🥈 Elite projects : [Euler Tier](https://github.com/stars/intrepidbird/lists/euler)
-
-🥉 Great projects : [Newton Tier](https://github.com/stars/intrepidbird/lists/newton)
-
-The IntrepidBird Standard: All of my projects are above average
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Thank you for looking at my GitHub! Please have a wonderful rest of your day.
-
-Disclaimer: I frequently use images from Poh Shen Loh, AoPS, MAA, Google, and other sources. If you are part of one of these corporations, please send me a email regarding the matter. I will answer immediately.
+Disclaimer: Not all images used in my projects or brand are owned by me.
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
