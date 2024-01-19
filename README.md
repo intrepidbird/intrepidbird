@@ -2,13 +2,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+IntrepidBird!" /></a>
 </p>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 
-- 👑 I'm currently a captain on multiple Math Teams, and the founder of IntrepidMaths
-- 👑 I co-founded the Bridgewater-Raritan Computer Science Club and lead Cybersecurity within the club
-- 👑 I'm generally interested in making software that benefits the Mathematical community such as calculators
-- 👑 Visit me at [intrepidbird.github.io](https://intrepidbird.github.io/)
-- 👑 How to reach me: alexanderxsheng@gmail.com
+![image](https://github.com/intrepidbird/intrepidbird/assets/140008493/05b841ae-6739-4903-8385-c51d426395b8)
+
+
+-------------------------------------------------------------------------------------
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
