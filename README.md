@@ -4,7 +4,8 @@
 
 -------------------------------------------------------------------------------------
 
-![image](https://github.com/intrepidbird/intrepidbird/assets/140008493/05b841ae-6739-4903-8385-c51d426395b8)
+![IntrepidBird Mathematics](https://github.com/intrepidbird/intrepidbird/assets/140008493/7aa9be61-85ca-4b75-974d-e13d8a2bafe0)
+
 
 <!---
 realrealAlexS/realrealAlexS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
