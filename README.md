@@ -1,10 +1,8 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+IntrepidBird!" /></a>
-</p>
+<h1 align="center">Alexander Sheng</h1>
+<h2 align="center">👑 "Honor and Excellence" 👑</h2>
+<br>
 
--------------------------------------------------------------------------------------
-
-![IntrepidBird Mathematics](https://github.com/intrepidbird/intrepidbird/assets/140008493/7aa9be61-85ca-4b75-974d-e13d8a2bafe0)
+![Alex Sheng](https://github.com/intrepidbird/intrepidbird/assets/140008493/7aa9be61-85ca-4b75-974d-e13d8a2bafe0)
 
 
 <!---
