@@ -1,5 +1,5 @@
 <h1 align="center">Alexander Sheng</h1>
-<h6 align="center">"I'm begging you, Prince Zuko. It's time for you to look <strong>inward</strong> and begin asking yourself the big questions. Who are you and what do <strong>you</strong> want?" - Iroh</h3>
+<h6 align="center">"The true mind can weather all the lies and illusions without being lost. The true heart can touch the poison of hatred without being harmed" - Lion Turtle, ATLA</h3>
 
 ![Alex Sheng](https://intrepidbird.me/images/intrepidmaths.jpg)
 
