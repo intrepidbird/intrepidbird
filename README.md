@@ -1,7 +1,7 @@
 <h1 align="center">Alexander Sheng</h1>
 <h6 align="center">"The true mind can weather all the lies and illusions without being lost. The true heart can touch the poison of hatred without being harmed."</h6>
 
-![Alex Sheng - Math Science Coding](https://intrepidbird.me/images/intrepidmaths.jpg)
+![Alex Sheng](https://intrepidbird.me/images/intrepidmaths.jpg)
 
 <!---
 intrepidbird/intrepidbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
