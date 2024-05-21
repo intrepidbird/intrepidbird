@@ -1,6 +1,6 @@
 <!-- (c) 2024 Alex Sheng -->
 <!-- Use With Permission -->
-![Alex Sheng](https://github.com/intrepidbird/intrepidbird/assets/140008493/73d76c2c-3f43-4bfe-a352-47924904fa0c)
+[![Alex Sheng](https://github.com/intrepidbird/intrepidbird/assets/140008493/73d76c2c-3f43-4bfe-a352-47924904fa0c)](https://intrepidbird.me/)
 
 ---------------
 
@@ -8,10 +8,10 @@
 
 <!-- GitHub Statistics -->
 <p align="center">  
-  <a href="https://intrepidbird.me/">
+  <a href="https://github.com/intrepidbird/">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=intrepidbird&theme=react&rank_icon=github&show_icons=true" />
   </a>
-  <a href="https://intrepidbird.me/">
+  <a href="https://devpost.com/intrepidbird//">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&layout=compact&langs_count=8&card_width=320&theme=react" />
   </a>
 </p>
