@@ -3,7 +3,6 @@
 
 ![The Trilogy](https://github.com/intrepidbird/intrepidbird/assets/140008493/8262ffb0-2d45-48d6-89f9-2f69db240a7d)
 
-
 <!-- GitHub Stats -->
 <a href="https://intrepidbird.me/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=intrepidbird&theme=react&rank_icon=github" />
