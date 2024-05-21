@@ -1,6 +1,9 @@
 <!-- (c) 2024 Alex Sheng -->
 <!-- Use With Permission -->
-<h1 align="center">Alexander Sheng</h1>
+![Alex Sheng](https://github.com/intrepidbird/intrepidbird/assets/140008493/73d76c2c-3f43-4bfe-a352-47924904fa0c)
+
+---------------
+
 <h6 align="center">"The true mind can weather all the lies and illusions without being lost. The true heart can touch the poison of hatred without being harmed."</h6>
 
 <!-- GitHub Statistics -->
