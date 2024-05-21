@@ -1,5 +1,5 @@
 <!-- Alex Sheng (intrepidbird)'s GitHub README.md -->
-[![Alex Sheng](https://github.com/intrepidbird/intrepidbird/assets/140008493/73d76c2c-3f43-4bfe-a352-47924904fa0c)](https://intrepidbird.me/)
+[![Alex Sheng](https://github.com/intrepidbird/intrepidbird/assets/140008493/73d76c2c-3f43-4bfe-a352-47924904fa0c)](https://intrepidbird.me)
 
 ---------------
 
@@ -10,10 +10,10 @@
 
 <!-- GitHub Statistics -->
 <p align="center">  
-  <a href="https://github.com/intrepidbird/">
+  <a href="https://github.com/intrepidbird">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=intrepidbird&theme=react&rank_icon=github&show_icons=true" />
   </a>
-  <a href="https://devpost.com/intrepidbird//">
+  <a href="https://devpost.com/intrepidbird">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&layout=compact&langs_count=8&card_width=320&theme=react" />
   </a>
 </p>
@@ -29,45 +29,45 @@
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a 
-    href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a 
-    href="https://w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    href="https://w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
-  <a href="https://w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <a href="https://w3schools.com/css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
   <!-- Python Libraries -->
   <a 
-    href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/> 
+    href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/> 
   </a> 
   <a 
-    href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> 
+    href="https://scipy.org" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> 
   </a>
   <a 
-    href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a>
   <!-- Front-end Tools -->
   <a 
     href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
   <a 
-    href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" alt="jquery" width="40" height="40"/> 
+    href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" alt="jquery" width="40" height="40"/> 
   </a>
   <a 
-    href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
+    href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
   </a> 
   <a 
-    href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a 
-    href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a>
   <!-- Developer Tools -->
   <a 
-    href="https://linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a 
-    href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
