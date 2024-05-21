@@ -5,6 +5,8 @@
 
 <!-- Quote -->
 <h6 align="center">"The true mind can weather all the lies and illusions without being lost. The true heart can touch the poison of hatred without being harmed."</h6>
+  
+</p>
 
 <!-- GitHub Statistics -->
 <p align="center">  
