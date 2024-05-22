@@ -5,13 +5,11 @@
 
 <!-- Quote -->
 <h6 align="center">"The true mind can weather all the lies and illusions without being lost. The true heart can touch the poison of hatred without being harmed."</h6>
-  
-</p>
 
 <!-- GitHub Statistics -->
 <p align="center">  
   <a href="https://github.com/intrepidbird">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=intrepidbird&theme=react&rank_icon=percentile&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=intrepidbird&theme=tokyonight&rank_icon=&show_icons=true" />
   </a>
   <a href="https://devpost.com/intrepidbird">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&layout=compact&langs_count=8&card_width=320&theme=algolia" />
