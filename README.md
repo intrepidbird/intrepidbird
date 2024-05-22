@@ -9,7 +9,7 @@
 <!-- GitHub Statistics -->
 <p align="center">  
   <a href="https://github.com/intrepidbird">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=intrepidbird&theme=tokyonight&rank_icon=&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=intrepidbird&theme=algolia&show_icons=true" />
   </a>
   <a href="https://devpost.com/intrepidbird">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&layout=compact&langs_count=8&card_width=320&theme=algolia" />
