@@ -1,7 +1,7 @@
 <!-- Alex Sheng (intrepidbird)'s GitHub README.md -->
 [![Alex Sheng](https://github.com/intrepidbird/intrepidbird/assets/140008493/73d76c2c-3f43-4bfe-a352-47924904fa0c)](https://intrepidbird.me)
 
----------------
+<img alt="line" src="https://raw.githubusercontent.com/cheehwatang/cheehwatang/1c6f0d9e7be44261228273a9c099d61b5b00c4e7/images/themed_line_dark.svg">
 
 <!-- Quote -->
 <h6 align="center">"The true mind can weather all the lies and illusions without being lost. The true heart can touch the poison of hatred without being harmed."</h6>
