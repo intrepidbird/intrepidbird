@@ -81,6 +81,8 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email%20Me-informational?style=for-the-badge&logo=gmail&color=D14836&logoColor=FFFFFF">
   </a>
 
+[<img alt="line" src="https://raw.githubusercontent.com/cheehwatang/cheehwatang/1c6f0d9e7be44261228273a9c099d61b5b00c4e7/images/themed_line_dark.svg">](https://intrepidbird.me)
+
 <!-- Copyright -->
 <p align="center">
   &copy; 2024 Alex Sheng. All rights reserved.
