@@ -34,7 +34,7 @@
   </a> 
   <a href="https://w3schools.com/css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
-  <!-- Python Libraries -->
+  <!-- Libraries -->
   <a 
     href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/> 
   </a> 
