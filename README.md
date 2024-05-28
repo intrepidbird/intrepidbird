@@ -3,7 +3,7 @@
 
 [<img alt="line" src="https://raw.githubusercontent.com/cheehwatang/cheehwatang/1c6f0d9e7be44261228273a9c099d61b5b00c4e7/images/themed_line_dark.svg">](https://intrepidbird.me)
 
-<!-- Quote -->
+<!-- Quote from Avatar: The Last Airbender -->
 <h6 align="center">"The true mind can weather all the lies and illusions without being lost. The true heart can touch the poison of hatred without being harmed."</h6>
 
 <!-- GitHub Statistics -->
@@ -60,7 +60,7 @@
   <a 
     href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a>
-  <!-- Developer Tools -->
+  <!-- Developer Operations -->
   <a 
     href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
