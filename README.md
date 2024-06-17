@@ -1,4 +1,4 @@
-<!-- Alex Sheng (intrepidbird)'s GitHub README.md -->
+<!-- Alex Sheng (intrepidbird)'s GitHub Profile README.md -->
 [![Alex Sheng](https://github.com/intrepidbird/intrepidbird/assets/140008493/73d76c2c-3f43-4bfe-a352-47924904fa0c)](https://intrepidbird.me)
 
 [<img alt="line" src="https://raw.githubusercontent.com/cheehwatang/cheehwatang/1c6f0d9e7be44261228273a9c099d61b5b00c4e7/images/themed_line_dark.svg">](https://intrepidbird.me)
