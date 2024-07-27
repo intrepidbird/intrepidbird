@@ -9,10 +9,10 @@
 <!-- GitHub Statistics -->
 <p align="center">  
   <a href="https://github.com/intrepidbird">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=intrepidbird&theme=algolia&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=intrepidbird&title_color=00aaff&text_color=00aaff&icon_color=00aaff&bg_color=050f2c&show_icons=true" />
   </a>
   <a href="https://devpost.com/intrepidbird">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrepidbird&layout=compact&langs_count=8&card_width=320&title_color=00aaff&text_color=00aaff&icon_color=00aaff&bg_color=050f2c&show_icons=true" />
   </a>
 </p>
 
