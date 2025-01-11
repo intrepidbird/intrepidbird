@@ -81,7 +81,7 @@
     <img alt="Devpost" src="https://img.shields.io/badge/Devpost-View%20%20my%20projects-informational?style=for-the-badge&logo=devpost&color=003E54&logoColor=003E54" />
   </a>
   <a href = "mailto:intrepidman2010@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email%20Me-informational?style=for-the-badge&logo=gmail&color=D14836&logoColor=D14836">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email%20Me-informational?style=for-the-badge&logo=gmail&color=0000FF&logoColor=0000FF">
   </a>
 
 [<img alt="line" src="https://raw.githubusercontent.com/cheehwatang/cheehwatang/1c6f0d9e7be44261228273a9c099d61b5b00c4e7/images/themed_line_dark.svg">](https://intrepidbird.me)
