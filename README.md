@@ -30,9 +30,7 @@
 
 [<img alt="line" src="https://raw.githubusercontent.com/cheehwatang/cheehwatang/1c6f0d9e7be44261228273a9c099d61b5b00c4e7/images/themed_line_dark.svg">](https://intrepidbird.me)
 
-<!-- ❤️‍🩹 Love you always, 675 Red Lion Way -->
-
 <!-- Copyright -->
 <p align="center">
-  &copy; 2024 Alex Sheng. All rights reserved.
+  &copy; 2025 Alex Sheng. All rights reserved.
 </p>
