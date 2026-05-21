@@ -1,8 +1,12 @@
 <!-- Alex Sheng (intrepidbird)'s GitHub Profile README.md -->
 [![Alex Sheng](https://github.com/intrepidbird/intrepidbird/assets/140008493/73d76c2c-3f43-4bfe-a352-47924904fa0c)](https://intrepidbird.me)
 
-<!-- Header Quote -->
+<!-- PHS -->
 <h3 align="center">Student at Princeton High School</h3>
+
+<!-- hackPHS -->
+<h3 align="center">I help direct Princeton High School's hackathon hackPHS</h3>
+
 
 <!-- Header Quote -->
 <h6 align="center">"The true mind can weather all the lies and illusions without being lost."</h6>
