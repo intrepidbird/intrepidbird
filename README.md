@@ -9,7 +9,7 @@
 
 
 <!-- Header Quote -->
-<h6 align="center">"The true mind can weather all the lies and illusions without being lost."</h6>
+<h6 align="center">"Friendship is the Purest Love :)"</h6>
 
 <!-- Website, Devpost, and Gmail -->
 <p align="center">
